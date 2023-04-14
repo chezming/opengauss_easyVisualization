@@ -14,7 +14,7 @@
     "echarts-gl": "^2.0.9",
     "element-ui": "^2.15.6",
     "less-loader": "^10.2.0",
-    "sass": "^1.53.0",
+    "sass": "^1.60.0",
     "sass-loader": "^13.0.2",
     "scss": "^0.2.4",
     "v-contextmenu": "^2.9.0",
